@@ -1,2 +1,2 @@
 # MovieReccer
-Movie Recommender using Vectorization
+movie recommender using vectorization
